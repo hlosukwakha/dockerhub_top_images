@@ -62,7 +62,7 @@ python dockerhub_top_images.py --top 25 --latest 10 --out json > results.json
 
 ## Output
 
-### Table (headers are fixed as requested)
+### Table 
 
 ```
 Top 25 images by pulls
